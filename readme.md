@@ -1,0 +1,1 @@
+Repository ini berisi Tugas Quality Assurance menggunakan Cypress
